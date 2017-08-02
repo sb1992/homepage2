@@ -1,0 +1,6 @@
+# skills section data
+
+label: Ability
+id : cs
+aspects: Python, Machine Learning, Deep learning, Sklearn, Tensorflow/Keras, R, Pandas, NoSQL, Hadoop, NLP
+percentage: 90, 80, 70, 80, 70, 50, 70, 60, 50, 80

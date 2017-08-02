@@ -1,0 +1,62 @@
+# projects section data
+# If you don't have language feature(language.yml is empty), ignore "i18n" items
+# Suggest projects' img be located at '/static/assets/img/landing', and edit following img items.
+- name: NETL
+  i18n: jalpc
+  gh_user: sb1992
+  repo: NETL-Automatic-Topic-Labelling-
+  img: /static/assets/img/landing/jekyll.png
+  desc: This is first project 
+  
+- name: Finding Donors for Charity
+  i18n: leetcode
+  gh_user: sb1992
+  repo: Data-science-and-ML/blob/master/ML_project_finding_donors/project_finding_donors.ipynb
+  img: /static/assets/img/landing/leetcode.png
+  desc: This Project notebook employed supervised learning where NGOs reached out only to people earning more than $50,000 hence not wasting resources on others.
+        Then try to predict individual’s income using attributes like education level, capital gain, occupation, age, working-class etc.
+        FInally apply Ada Boosting and ensemble methods to achieve an accuracy of 86%.
+
+- name: Creating Customer Segments
+  i18n: leetcode
+  gh_user: sb1992
+  repo: Data-science-and-ML/blob/master/Ml_project_customer_segments/Project_creating_customer_segments.ipynb
+  img: /static/assets/img/landing/leetcode.png
+  desc: In this project, we will analyze a dataset containing data on various customers' annual spending amounts (reported in monetary units) of diverse product categories for internal structure. 
+        One goal of this project is to best describe the variation in the different types of customers that a wholesale distributor interacts with. 
+        Doing so would equip the distributor with insight into how to best structure their delivery service to meet the needs of each customer.
+
+- name: Link Pediction between Twitter Users
+  i18n: leetcode
+  img: /static/assets/img/landing/familycode.png
+  desc: Predict the presence of links between Twitter users, given data in the form of a directed social network graph.
+        The graph of network was transposed into a binary classification problem.
+        Supervised learning techniques were applied along with different Ensemble approaches. 
+        Finally, Gradient Boosted Trees with feature transformation achieved an accuracy of 85%.
+
+- name: Video and Image Q/A System
+  i18n: familycode
+  img: /static/assets/img/landing/familycode.png
+  desc: In this porject we break Video into image frames, train Cov-nets using inception3 architecture on time distributed layer and combine them with LSTM layer.
+        We use pre-trained word2vec vectors on word queries and combine them with using LSTM layer. 
+        Finally, Concatenate output of both LSTMs, add a couple fully connected layer and an output layer to softmax and give predictive words for the Video.
+
+- name: Predicting Boston Housing Prices
+  i18n: leetcode
+  gh_user: sb1992
+  repo: Data-science-and-ML/blob/master/ML_project_boston_housing/Boston_house.ipynb
+  img: /static/assets/img/landing/leetcode.png
+  desc: In this project, we will evaluate the performance and predictive power of a model that has been trained and tested on data collected from homes in suburbs of Boston, Massachusetts. 
+        A model trained on this data that is seen as a good fit could then be used to make certain predictions about a home — in particular, its monetary value.
+        This model would prove to be invaluable for someone like a real estate agent who could make use of such information on a daily basis.
+
+- name: Text Generation with LSTM 
+  i88n: leetcode
+  repo: Data-science-and-ML/blob/master/ML_project_boston_housing/Boston_house.ipynb
+  img: /static/assets/img/landing/leetcode.png
+  desc: In this project we use LSTM recurrent neural network for text generation in Python with Tensorflow and Keras.
+        we train stacked LSTM network on text sequences an then use this trained sequences as a generative model to generate new text sequences.
+
+
+
+

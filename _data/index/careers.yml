@@ -1,0 +1,55 @@
+- name:
+    detail: University of Melbourne
+    i18n: nextcode
+  desc:
+    detail: I graduated from my Masters' degree with First Class Honours - Distinction.
+    i18n: nextcode_des
+  date:
+    detail: July 2017
+    i18n: nextcode_date
+  job:
+    detail: Graduated
+    i18n: nextcode_job
+  icon: fa-plus-square
+
+- name:
+    detail: University of Melbourne
+    i18n: netease
+  desc:
+    detail: Conduct laboratory sessions for students assisting them with Data science and Machine Learning algorithms.
+    i18n: netease_des
+  date:
+    detail: Feburary 2017 - June 2017
+    i18n: netease_date
+  job:
+    detail: Demonstrator/Tutor for Machine Learning
+    i18n: netease_job
+  icon: fa-plus-square
+
+- name:
+    detail: IBM Research
+    i18n: ucloud
+  desc:
+    detail: Worked with Neural network inspired models Word2Vec and Doc2Vec on topic models.Used different ML algorithms and neural networks to construct automatic labeling of topics.
+    i18n: ucloud_des
+  date:
+    detail: March 2016 - November 2016
+    i18n: ucloud_date
+  job:
+    detail: Research Intern
+    i18n: ucloud_job
+  icon: fa-plus-square
+
+- name:
+    detail: University of Melbourne
+    i18n: college
+  desc:
+    detail: Commenced my Masters' degree in Computer Science with emphasis on Data Science and Machine learning.
+    i18n: college_des
+  date:
+    detail: July 2015
+    i18n: college_date
+  job:
+    detail: Student
+    i18n: college_job
+  icon: fa-plus-square
