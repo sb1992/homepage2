@@ -2,7 +2,7 @@
     detail: University of Melbourne
     i18n: nextcode
   desc:
-    detail: I graduated from my Masters' degree with First Class Honours - Distinction.
+    detail: I graduated from my Masters' degree with First Class Honours - Distinction (H1).
     i18n: nextcode_des
   date:
     detail: July 2017
@@ -30,7 +30,7 @@
     detail: IBM Research
     i18n: ucloud
   desc:
-    detail: Worked with Neural network inspired models Word2Vec and Doc2Vec on topic models.Used different ML algorithms and neural networks to construct automatic labeling of topics.
+    detail: Worked with Neural network inspired models Word2Vec and Doc2Vec on topic models. Used different ML algorithms and neural networks to construct automatic labeling of topics.
     i18n: ucloud_des
   date:
     detail: March 2016 - November 2016

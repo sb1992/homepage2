@@ -30,6 +30,11 @@
   tpl: publications.html
   css: project
 
+- id: courses
+  i18n: nav.courses
+  name: Online Courses
+  tpl: courses.html
+  css: project
 
 - id: resume
   i18n: nav.resume

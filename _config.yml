@@ -28,7 +28,7 @@ author:  # change following line to your infomation.
   skill_icon2:
     - name: fa-linux
     - name: icon-apache
-  desc: Shraey here - an aspiring Data Scientist  # Describe yourself.
+  desc: Shraey here - an upcoming Data Scientist with an interest in Deep Learning and Machine Learning. I recently graduated with my Masters degree from the University of Melbourne. Data fascinates me and I truly believe this is the century where data and predective modelling will take us to the next level. Have any interesting Projects or Research ideas, well then let us get in touch. # Describe yourself.
 
 # comment
 #disqus:  # if you wanna comment feature, go to https://disqus.com/ to get your configuration; if not, comment following two lines.

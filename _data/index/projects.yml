@@ -5,8 +5,9 @@
   i18n: jalpc
   gh_user: sb1992
   repo: NETL-Automatic-Topic-Labelling-
-  img: /static/assets/img/landing/jekyll.png
-  desc: This is first project 
+  img: /static/assets/img/landing/leetcode.png
+  desc: In this project I employed neural network inspired Doc2Vec and Word2Vec models in conjunction with topic models to give a labelling approach for topics. 
+        Hence given a bunch of topic words it will generate a succint phrase or label for those words representing the idea. Thhis project was part of my work at IBM Research and you can also find the reseach paper in the publications section.
   
 - name: Finding Donors for Charity
   i18n: leetcode
@@ -28,7 +29,7 @@
 
 - name: Link Pediction between Twitter Users
   i18n: leetcode
-  img: /static/assets/img/landing/familycode.png
+  img: /static/assets/img/landing/leetcode.png
   desc: Predict the presence of links between Twitter users, given data in the form of a directed social network graph.
         The graph of network was transposed into a binary classification problem.
         Supervised learning techniques were applied along with different Ensemble approaches. 
@@ -36,8 +37,8 @@
 
 - name: Video and Image Q/A System
   i18n: familycode
-  img: /static/assets/img/landing/familycode.png
-  desc: In this porject we break Video into image frames, train Cov-nets using inception3 architecture on time distributed layer and combine them with LSTM layer.
+  img: /static/assets/img/landing/leetcode.png
+  desc: In this project we break Video into image frames, train Cov-nets using inception3 architecture on time distributed layer and combine them with LSTM layer.
         We use pre-trained word2vec vectors on word queries and combine them with using LSTM layer. 
         Finally, Concatenate output of both LSTMs, add a couple fully connected layer and an output layer to softmax and give predictive words for the Video.
 
@@ -46,16 +47,15 @@
   gh_user: sb1992
   repo: Data-science-and-ML/blob/master/ML_project_boston_housing/Boston_house.ipynb
   img: /static/assets/img/landing/leetcode.png
-  desc: In this project, we will evaluate the performance and predictive power of a model that has been trained and tested on data collected from homes in suburbs of Boston, Massachusetts. 
+  desc: In this project, I will evaluate the performance and predictive power of a model that has been trained and tested on data collected from homes in suburbs of Boston, Massachusetts. 
         A model trained on this data that is seen as a good fit could then be used to make certain predictions about a home — in particular, its monetary value.
         This model would prove to be invaluable for someone like a real estate agent who could make use of such information on a daily basis.
 
 - name: Text Generation with LSTM 
   i88n: leetcode
-  repo: Data-science-and-ML/blob/master/ML_project_boston_housing/Boston_house.ipynb
   img: /static/assets/img/landing/leetcode.png
-  desc: In this project we use LSTM recurrent neural network for text generation in Python with Tensorflow and Keras.
-        we train stacked LSTM network on text sequences an then use this trained sequences as a generative model to generate new text sequences.
+  desc: In this project I use LSTM recurrent neural network for text generation in Python with Tensorflow and Keras.
+        I train stacked LSTM network on text sequences an then use this trained sequences as a generative model to generate new text sequences.
 
 
 
