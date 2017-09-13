@@ -28,7 +28,7 @@ author:  # change following line to your infomation.
   skill_icon2:
     - name: fa-linux
     - name: icon-apache
-  desc: Shraey here - an upcoming Data Scientist with an interest in Deep Learning and Machine Learning. I recently graduated with my Masters degree from the University of Melbourne. Data fascinates me and I truly believe this is the century where data and predective modelling will take us to the next level. Have any interesting Projects or Research ideas, well then let us get in touch. # Describe yourself.
+  desc: Shraey here - an upcoming Data Scientist with an interest in Deep Learning and Machine Learning. I recently graduated with my Masters degree from The University of Melbourne in the area of Data Science. I have experience working with Natural Language Processing (NLP), Machine Learning, Deep Learning, Data Wrangling and Information Retrieval. Coming from the Research background I love new or challenging problems and enjoy working with a team of motivated Data Scientists bringing out fresh ideas on the table.  My Masters thesis dealt with labelling and evaluation of Topic Models. My Masters thesis resulted in 2 top level conference papers in the domain of NLP. Previously, I was a Research Intern at IBM Research working with Neural Network based embeddings and their utility in automatic labelling of topics. Have any interesting Projects or Research ideas, well then let us get in touch. # Describe yourself.
 
 # comment
 #disqus:  # if you wanna comment feature, go to https://disqus.com/ to get your configuration; if not, comment following two lines.
